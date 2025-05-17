@@ -718,7 +718,7 @@
 
     move-result p0
 
-    const-string v0, "com.android.camera.action.REVIEW"
+    const-string v0, "android.provider.action.REVIEW"
 
     if-eqz p0, :cond_0
 
@@ -787,7 +787,7 @@
 
     const-string p1, "GalleryHelper"
 
-    const-string v1, "gotoGallery: com.android.camera.action.REVIEW"
+    const-string v1, "gotoGallery: android.provider.action.REVIEW"
 
     .line 10
     invoke-static {p1, v1, p0}, Lcom/android/camera/log/Log;->d(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)V

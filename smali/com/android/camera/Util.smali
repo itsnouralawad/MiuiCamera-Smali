@@ -220,7 +220,7 @@
 
 .field public static final REQUEST_CODE_OPEN_MIUI_EXTRA_PHOTO:I = 0x8c35
 
-.field public static final REVIEW_ACTION:Ljava/lang/String; = "com.android.camera.action.REVIEW"
+.field public static final REVIEW_ACTION:Ljava/lang/String; = "android.provider.action.REVIEW"
 
 .field public static final REVIEW_ACTION_IN_MULTI_WINDOW:Ljava/lang/String; = "com.android.camera.action.SPILIT_SCREEN_REVIEW"
 
