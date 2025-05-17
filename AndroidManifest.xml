@@ -222,7 +222,7 @@
         <provider android:authorities="com.android.camera.fileProvider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
             <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"/>
         </provider>
-        <provider android:authorities="@string/provider_authority" android:exported="true" android:grantUriPermissions="true" android:name="com.xiaomi.camera.parallelservice.provider.ParallelProcessProvider" android:syncable="false"/>
+        <provider android:authorities="com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider" android:exported="true" android:grantUriPermissions="true" android:name="com.xiaomi.camera.parallelservice.provider.ParallelProcessProvider" android:syncable="false"/>
         <provider android:authorities="com.android.camera.provider.bugreport" android:exported="true" android:name="com.miui.bugreport.logprovider.DumpLogProvider" android:permission="com.miui.bugreport.permission.DUMP_CACHED_LOG" android:readPermission="com.miui.bugreport.permission.DUMP_CACHED_LOG">
             <intent-filter>
                 <action android:name="com.miui.bugreport.intent.ACTION_DUMP_CACHED_LOG"/>

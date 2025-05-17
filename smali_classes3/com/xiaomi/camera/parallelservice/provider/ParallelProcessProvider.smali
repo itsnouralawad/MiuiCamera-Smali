@@ -800,13 +800,6 @@
     :catch_1
     move-exception v1
 
-    const-string v2, "failed to find package"
-
-    .line 6
-    invoke-static {v0, v2, v1}, Lcom/android/camera/log/Log;->w(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Throwable;)V
-
-    const/4 v1, 0x4
-
     :cond_0
     :goto_0
     return v1
