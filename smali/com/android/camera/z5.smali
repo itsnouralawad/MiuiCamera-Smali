@@ -185,7 +185,7 @@
 
 .field public static d1:Z = false
 
-.field public static final e:Ljava/lang/String; = "com.android.camera.action.REVIEW"
+.field public static final e:Ljava/lang/String; = "android.provider.action.REVIEW"
 
 .field public static final e0:I = 0x8c36
 
