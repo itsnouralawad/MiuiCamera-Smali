@@ -664,6 +664,11 @@
     .line 3
     invoke-virtual {p0, v0}, Landroid/content/Intent;->setPackage(Ljava/lang/String;)Landroid/content/Intent;
 
+    # FLAG_ACTIVITY_NEW_TASK
+    const v0, 0x10000000
+
+    invoke-virtual {p0, v0}, Landroid/content/Intent;->addFlags(I)Landroid/content/Intent;
+
     .line 4
     invoke-virtual {p1, p0}, Landroid/app/Activity;->startActivity(Landroid/content/Intent;)V
 
