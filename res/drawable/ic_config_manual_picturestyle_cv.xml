@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/top_bar_item_size" android:width="@dimen/top_bar_item_size" android:viewportWidth="124.0" android:viewportHeight="124.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M62,81C72.493,81 81,72.493 81,62C81,51.507 72.493,43 62,43C51.507,43 43,51.507 43,62C43,72.493 51.507,81 62,81ZM62,85C74.702,85 85,74.702 85,62C85,49.298 74.702,39 62,39C49.298,39 39,49.298 39,62C39,74.702 49.298,85 62,85Z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M62,75C69.18,75 75,69.18 75,62C75,54.82 69.18,49 62,49V75Z" />
+</vector>

@@ -1,0 +1,48 @@
+.class public final synthetic Lh8/f;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lio/reactivex/functions/Consumer;
+
+
+# instance fields
+.field public final synthetic a:Lh8/h;
+
+.field public final synthetic b:Lcom/iqiyi/android/qigsaw/core/splitdownload/DownloadCallback;
+
+.field public final synthetic c:I
+
+
+# direct methods
+.method public synthetic constructor <init>(Lh8/h;Lcom/iqiyi/android/qigsaw/core/splitdownload/DownloadCallback;I)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lh8/f;->a:Lh8/h;
+
+    iput-object p2, p0, Lh8/f;->b:Lcom/iqiyi/android/qigsaw/core/splitdownload/DownloadCallback;
+
+    iput p3, p0, Lh8/f;->c:I
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final accept(Ljava/lang/Object;)V
+    .locals 2
+
+    iget-object v0, p0, Lh8/f;->a:Lh8/h;
+
+    iget-object v1, p0, Lh8/f;->b:Lcom/iqiyi/android/qigsaw/core/splitdownload/DownloadCallback;
+
+    iget p0, p0, Lh8/f;->c:I
+
+    check-cast p1, Lh8/a;
+
+    invoke-static {v0, v1, p0, p1}, Lh8/h;->a(Lh8/h;Lcom/iqiyi/android/qigsaw/core/splitdownload/DownloadCallback;ILh8/a;)V
+
+    return-void
+.end method

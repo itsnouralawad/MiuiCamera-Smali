@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/manually_indicator_background_margin_left_right" android:insetRight="@dimen/manually_indicator_background_margin_left_right" android:insetTop="@dimen/manually_indicator_background_margin_top_bottom" android:insetBottom="@dimen/manually_indicator_background_margin_top_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <layer-list
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <item>
+            <shape android:shape="rectangle">
+                <solid android:color="#26ffffff" />
+                <corners android:topLeftRadius="@dimen/aperture_contain_bg_radius" android:topRightRadius="@dimen/aperture_contain_bg_radius" android:bottomLeftRadius="@dimen/aperture_contain_bg_radius" android:bottomRightRadius="@dimen/aperture_contain_bg_radius" />
+            </shape>
+        </item>
+    </layer-list>
+</inset>

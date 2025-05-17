@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/monitor_switch_track_un_checked" />
+    <size android:height="@dimen/monitor_popup_switch_track_height" />
+    <corners android:radius="@dimen/monitor_popup_switch_track_radio" />
+</shape>

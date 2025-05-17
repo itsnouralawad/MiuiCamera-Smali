@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:id="@id/layout_3d" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/ic_config_effect_comparison_3d" android:scaleType="fitXY" android:adjustViewBounds="true" android:maxWidth="@dimen/effect_comparision_3d_img_max_width" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/effect_comparision_3d_textsize" android:textColor="@color/effect_ai_audio_3d_text_color" android:id="@id/text_3d_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/effect_comparision_3d_textview_i_marginleft" />
+        <TextView android:textSize="@dimen/effect_comparision_3d_textsize" android:textColor="@color/effect_ai_audio_3d_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/effect_comparision_3d_textview_ii_marginleft" android:text="@string/pref_video_ai_audio_effect_comparation_3d_ii" />
+    </LinearLayout>
+</FrameLayout>

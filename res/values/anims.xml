@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="anim" name="miuix_appcompat_fragment_transition_activity_close_enter">@null</item>
+    <item type="anim" name="miuix_appcompat_fragment_transition_activity_close_exit">@null</item>
+    <item type="anim" name="miuix_appcompat_fragment_transition_activity_open_enter">@null</item>
+    <item type="anim" name="miuix_appcompat_fragment_transition_activity_open_exit">@null</item>
+</resources>

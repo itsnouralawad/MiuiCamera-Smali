@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:color="?checkablePreferenceItemColorFilterNormal" />
+    <item android:state_checked="true" android:state_pressed="true" android:color="?checkablePreferenceItemColorPressedChecked" />
+    <item android:state_checked="false" android:state_pressed="true" android:color="?checkablePreferenceItemColorPressed" />
+    <item android:state_checked="true" android:color="?checkablePreferenceItemColorFilterChecked" />
+    <item android:color="@color/miuix_appcompat_transparent" />
+</selector>

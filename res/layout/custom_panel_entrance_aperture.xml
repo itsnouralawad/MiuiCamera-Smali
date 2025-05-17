@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="bottom|center" android:id="@id/tip_aperture_layout" android:background="@drawable/square_module_bg_aperture_indicator" android:visibility="invisible" android:layout_width="@dimen/aperture_indicator_layout_width" android:layout_height="@dimen/aperture_indicator_layout_height" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="11.429993dip" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@id/tip_text" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/aperture_tip_text_minwidth" android:text="" android:singleLine="true" android:shadowColor="@color/alpha80_black" android:shadowDx="0.0" android:shadowDy="0.0" android:shadowRadius="2.0" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:fontFeatureSettings="tnum" />
+</RelativeLayout>

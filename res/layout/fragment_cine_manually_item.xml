@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/cine_manually_item_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/cine_manually_title_text_size" android:textStyle="bold" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center" android:id="@id/cine_manually_item_key" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:singleLine="true" android:shadowDx="0.0" android:shadowDy="0.0" android:marqueeRepeatLimit="marquee_forever" android:fallbackLineSpacing="false" style="@style/ShadowStyleMM" />
+        <TextView android:textSize="@dimen/cine_manually_value_text_size" android:textStyle="bold" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center" android:id="@id/cine_manually_item_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cine_manually_value_margin_top" android:singleLine="true" android:shadowDx="0.0" android:shadowDy="0.0" android:marqueeRepeatLimit="2" android:textDirection="ltr" style="@style/ShadowStyleMM" />
+        <ImageView android:layout_gravity="center" android:id="@id/cine_manually_item_value_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/cine_manually_value_margin_top" android:scaleType="center" />
+    </LinearLayout>
+</LinearLayout>
