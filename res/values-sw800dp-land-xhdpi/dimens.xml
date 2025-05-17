@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beauty_subeffect_layout_margin_left">15.556dip</dimen>
+    <dimen name="beautycamera_beauty_subeffect_seekbar_width">323.10938dip</dimen>
+    <dimen name="bottom_action_top_margin">58.899994dip</dimen>
+    <dimen name="bottom_action_top_margin_half">29.449982dip</dimen>
+    <dimen name="custom_tint_color_use_top_margin">28.439972dip</dimen>
+    <dimen name="custom_tint_preview_width_full">627.89844dip</dimen>
+    <dimen name="mode_select_margin_hor">68.0dip</dimen>
+    <dimen name="more_mode_settings_padding_hor">222.0dip</dimen>
+    <dimen name="motion_detection_rect_circle_enlarge_radius">7.4539795dip</dimen>
+    <dimen name="motion_detection_rect_circle_normal_radius">4.909973dip</dimen>
+    <dimen name="motion_detection_rect_line_width">1.8199768dip</dimen>
+    <dimen name="tint_AItip_font_select">8.889984sp</dimen>
+</resources>

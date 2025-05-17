@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cvtype_btn_select_marginbottom">54.544983dip</dimen>
+    <dimen name="cvtype_btn_select_width">287.26562dip</dimen>
+    <dimen name="cvtype_hint_viewpager_height">472.79688dip</dimen>
+    <dimen name="cvtype_hint_viewpager_marginbottom">38.90799dip</dimen>
+    <dimen name="cvtype_hint_viewpager_width">294.53906dip</dimen>
+    <dimen name="cvtype_item_card_height">392.72656dip</dimen>
+    <dimen name="manual_extra_horizontal_view_left">14.319977dip</dimen>
+    <dimen name="manual_extra_horizontal_view_right">31.299988dip</dimen>
+    <item type="dimen" name="menu_item_scale_size">0.317</item>
+    <dimen name="mode_select_item_text_size">13.079987sp</dimen>
+    <dimen name="pop_up_window_move_left">73.099976dip</dimen>
+    <item type="dimen" name="pro_menu_item_scale_size">0.317</item>
+    <dimen name="pro_view_zoom_view_width">39.0dip</dimen>
+    <dimen name="slide_switch_button_image_item_padding">10.179993dip</dimen>
+    <dimen name="slide_switch_button_item_max_width">70.94998dip</dimen>
+    <dimen name="slide_switch_button_item_padding">10.819dip</dimen>
+    <dimen name="zoom_ratio_dot_gap_cv">3.6399841dip</dimen>
+    <dimen name="zoom_ratio_dot_text_width">32.75dip</dimen>
+    <dimen name="zoom_ratio_toggle_view_bg_radius">20.0dip</dimen>
+    <dimen name="zoom_selected_view_stroke_width">1.4499817dip</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/beautycamera_makeup_icon_height_cv" android:width="@dimen/beautycamera_makeup_icon_height_cv" android:viewportWidth="70.0" android:viewportHeight="70.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M35,13C47.1503,13 57,22.8497 57,35C57,47.1503 47.1503,57 35,57C22.8497,57 13,47.1503 13,35C13,22.8497 22.8497,13 35,13Z" android:strokeColor="#ffffffff" android:strokeWidth="4.0" />
+    <path android:fillColor="#00000000" android:pathData="M35,44C39.9706,44 44,39.9706 44,35C44,30.0294 39.9706,26 35,26C30.0294,26 26,30.0294 26,35C26,39.9706 30.0294,44 35,44Z" android:strokeColor="#ffffffff" android:strokeWidth="4.0" />
+</vector>

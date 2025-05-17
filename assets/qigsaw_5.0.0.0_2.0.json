@@ -1,0 +1,537 @@
+{
+  "qigsawId": "5.0.0.0",
+  "appVersionName": "5.1.000390.2",
+  "builtInUrlPrefix": "assets://",
+  "splits": [
+    {
+      "splitName": "mimojifu",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/mimojifu/3.1.5@8/mimojifu-10355350c5e82e11da25a13e89e687af-20220822170535802.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 92475557,
+      "version": "3.1.5@8",
+      "md5": "10355350c5e82e11da25a13e89e687af",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libCNamaSDK.so",
+              "md5": "15f9f8aeac7a1d0fb739d692b7bfeb94",
+              "size": 11709976
+            },
+            {
+              "name": "libFUAuthHelper.so",
+              "md5": "71a0e2f142384456e51033c1715f6695",
+              "size": 235672
+            },
+            {
+              "name": "libFUP2AHelper.so",
+              "md5": "45c9ec8b57228d0ebba4ae704c7158e1",
+              "size": 1769592
+            },
+            {
+              "name": "libffmpeg.so",
+              "md5": "6a3c768eb00b131c5a6700c751812e1c",
+              "size": 10477672
+            },
+            {
+              "name": "libfuai.so",
+              "md5": "35589927e3737b5045057ad629d142d6",
+              "size": 8694128
+            },
+            {
+              "name": "libmimoji_bokeh_845_video.so",
+              "md5": "da10d9b38037b990f89f4a17070ecc87",
+              "size": 7919384
+            },
+            {
+              "name": "libmimoji_soundsupport.so",
+              "md5": "7d8d14f0d09fb6d0adb57233890eb9af",
+              "size": 266064
+            },
+            {
+              "name": "libmimoji_tracking.so",
+              "md5": "fbf664f98d1a11961fbcd13bca2e7f00",
+              "size": 4184056
+            },
+            {
+              "name": "libmimoji_video2gif.so",
+              "md5": "4e8ad5679c7e76f9629d80998e00a9c4",
+              "size": 10680904
+            },
+            {
+              "name": "libpta_server.so",
+              "md5": "aa9e6305f521e29f8ee3abaec2bfaf14",
+              "size": 12484256
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "mimojifu2",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/mimojifu2/1.1.2@221008/mimojifu2-679c5da076a0ad6352936dfe83a46b16-20221008142720983.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 172003565,
+      "version": "1.1.2@221008",
+      "md5": "679c5da076a0ad6352936dfe83a46b16",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libCNamaSDK.so",
+              "md5": "fd4b957f065153597007ce70d892d3be",
+              "size": 16825592
+            },
+            {
+              "name": "libFUAuthHelper.so",
+              "md5": "eed201b508ecdf4499bc31cafb389176",
+              "size": 235672
+            },
+            {
+              "name": "libFUP2AHelper.so",
+              "md5": "ce4d42f6983505dbf813f7b32cf0258c",
+              "size": 2228272
+            },
+            {
+              "name": "libaivs_jni.so",
+              "md5": "68eb53247645e5bc4fe62827dd9b530d",
+              "size": 727432
+            },
+            {
+              "name": "libffmpeg.so",
+              "md5": "ee66d249ced17d07f4fcb82023293c3d",
+              "size": 10477672
+            },
+            {
+              "name": "libfuai.so",
+              "md5": "4a3a260907db9c23e4c47d3a101af1ce",
+              "size": 12007552
+            },
+            {
+              "name": "libmimoji_bokeh_845_video.so",
+              "md5": "22c5c380a2af82a8335a4174ef0307b5",
+              "size": 7927576
+            },
+            {
+              "name": "libmimoji_soundsupport.so",
+              "md5": "ca1047d05e29f707fed9e29517ad6b21",
+              "size": 266064
+            },
+            {
+              "name": "libmimoji_tracking.so",
+              "md5": "f0cad501a6ccf05f4650926806469664",
+              "size": 4184056
+            },
+            {
+              "name": "libmimoji_video2gif.so",
+              "md5": "3d07eb9c31944dfa2f3f1fcdae3e7b44",
+              "size": 10680904
+            },
+            {
+              "name": "libpta_server.so",
+              "md5": "2c96fc0e1cafa34a3a19047b54e025f7",
+              "size": 12721824
+            },
+            {
+              "name": "libvad2.so",
+              "md5": "b030577d6b26adf629633d21385c1f39",
+              "size": 1591568
+            },
+            {
+              "name": "libxmd.so",
+              "md5": "767f66deb6cbda49b90b14a4ddad731b",
+              "size": 2300832
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "milive",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/milive/8.29@220829/milive-42b931fa0117299db47716f0c38d3d6c-20220829100727892.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 10231070,
+      "version": "8.29@220829",
+      "md5": "42b931fa0117299db47716f0c38d3d6c",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libffmpeg.so",
+              "md5": "6a3c768eb00b131c5a6700c751812e1c",
+              "size": 10477672
+            },
+            {
+              "name": "librecord_video.so",
+              "md5": "d31d38e1f0e696f004ea061e95d59d62",
+              "size": 10748408
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "panorama",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/panorama/8.2.0@11/panorama-56e336cfe1ba17030fbc6358c86b4206-20220616154255151.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 18356711,
+      "version": "8.2.0@11",
+      "md5": "56e336cfe1ba17030fbc6358c86b4206",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libarcsoft_wideselfie.so",
+              "md5": "00b3453420049f65b98b498a700892e0",
+              "size": 4053144
+            },
+            {
+              "name": "libc++_shared.so",
+              "md5": "5d8a456ff9c5bb526a6cc8df3c444f5c",
+              "size": 911696
+            },
+            {
+              "name": "libcamera_arcsoft_beautyshot.so",
+              "md5": "cabbfc43db8d37d448a7cc353226deaf",
+              "size": 29393864
+            },
+            {
+              "name": "libcamera_beauty_mpbase.so",
+              "md5": "0687411af0606ec4f5708d6baf881d55",
+              "size": 5184
+            },
+            {
+              "name": "libcamera_wideselfie_mpbase.so",
+              "md5": "f0a212cb9d1fa8f665ee8253530ed7ab",
+              "size": 5408
+            },
+            {
+              "name": "libjni_arcsoft_beautyshot.so",
+              "md5": "9660f0c822e2586e6b50b2cee2acecff",
+              "size": 10000
+            },
+            {
+              "name": "libjni_wideselfie.so",
+              "md5": "5b0aa1f0c47526dc204a1c3aeaf2a609",
+              "size": 489976
+            },
+            {
+              "name": "libmorpho_memory_allocator.so",
+              "md5": "8575e915170345083598f5dfad286b0a",
+              "size": 5760
+            },
+            {
+              "name": "libmorpho_panorama_gp3.so",
+              "md5": "d6b821d32a9efe4735fddafb8ddabaa2",
+              "size": 2948816
+            },
+            {
+              "name": "libmorpho_sensor_fusion.so",
+              "md5": "b015c961644504b27bbd30ed6375ef20",
+              "size": 92112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "ambilight",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/ambilight/v1.3.5@20220923/ambilight-025751d00c23f6f4c5c943a2e1be204a-20220923203734719.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 2525155,
+      "version": "v1.3.5@20220923",
+      "md5": "025751d00c23f6f4c5c943a2e1be204a",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libcamera_ambilight_ambt_mtk.so",
+              "md5": "7a40d8eb167c7ba10b8873cfdbecb75e",
+              "size": 3092024
+            },
+            {
+              "name": "libcamera_ambilight_ambt_qcom.so",
+              "md5": "c3c352e6991786bf7c700d66665e76d4",
+              "size": 3628024
+            },
+            {
+              "name": "libcamera_ambilight_utils_mtk.so",
+              "md5": "f220d22045d76520aa064990766d7adf",
+              "size": 133320
+            },
+            {
+              "name": "libcamera_ambilight_utils_qcom.so",
+              "md5": "f188abede9f17a7f2f661354b6b859ea",
+              "size": 133320
+            },
+            {
+              "name": "libcamera_mialgo_ambilight.so",
+              "md5": "84210a712628d78b6d923e1af1bf7637",
+              "size": 18480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "mimojias",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/mimojias/3.1.4@7/mimojias-a17053f50ad11d2f62b2d24a790c685a-20220822170641872.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 42878008,
+      "version": "3.1.4@7",
+      "md5": "a17053f50ad11d2f62b2d24a790c685a",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libffmpeg.so",
+              "md5": "6a3c768eb00b131c5a6700c751812e1c",
+              "size": 10477672
+            },
+            {
+              "name": "libmimoji_avatarengine.so",
+              "md5": "99dff60b823312a70b0de533c2f0dc6b",
+              "size": 29207080
+            },
+            {
+              "name": "libmimoji_bokeh_845_video.so",
+              "md5": "da10d9b38037b990f89f4a17070ecc87",
+              "size": 7919384
+            },
+            {
+              "name": "libmimoji_jni.so",
+              "md5": "efd3ad8f479c98e8ab37db63c18763ea",
+              "size": 1183008
+            },
+            {
+              "name": "libmimoji_soundsupport.so",
+              "md5": "7d8d14f0d09fb6d0adb57233890eb9af",
+              "size": 266064
+            },
+            {
+              "name": "libmimoji_tracking.so",
+              "md5": "fbf664f98d1a11961fbcd13bca2e7f00",
+              "size": 4184056
+            },
+            {
+              "name": "libmimoji_video2gif.so",
+              "md5": "4e8ad5679c7e76f9629d80998e00a9c4",
+              "size": 10680904
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "vlog2",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/vlog2/3.13@15/vlog2-2a322ee0e0cda593c8cb9b740d16ca2d-20220324143431876.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 27585786,
+      "version": "3.13@15",
+      "md5": "2a322ee0e0cda593c8cb9b740d16ca2d",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libffmpeg.so",
+              "md5": "6a3c768eb00b131c5a6700c751812e1c",
+              "size": 10477672
+            },
+            {
+              "name": "libvvmediaeditor.so",
+              "md5": "4347fa91c87a841b3ff47fc2c29ba663",
+              "size": 10438200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "videosky",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/videosky/1.0@1/release/videosky-0f21455433465db35243531f6fb4c3af-20210323165933844.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 45754030,
+      "version": "1.0@1",
+      "md5": "0f21455433465db35243531f6fb4c3af",
+      "minSdkVersion": 27,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libmagicvideosky.so",
+              "md5": "93b1d9ce1e9a29a3ebeb00dc8fff4969",
+              "size": 15840232
+            },
+            {
+              "name": "libmace.so",
+              "md5": "05e6a46528547aecda285f37ce1ff0c2",
+              "size": 4582848
+            },
+            {
+              "name": "libQnnHtpAltPrepSkel.so",
+              "md5": "d78e02c3ac4d9619ca7331ff525e0bb4",
+              "size": 10029572
+            },
+            {
+              "name": "libQnnHtpAltPrepStub.so",
+              "md5": "8e274dc1c1793ae2687c698aa20f7ee9",
+              "size": 15618712
+            },
+            {
+              "name": "libvidsegment.so",
+              "md5": "176d3b9e90dd530102ab9b2f09669ec6",
+              "size": 4902272
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "clone",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/clone/37.0@37/clone-4d8d08b3c514c485201cece3f943620c-20230322200938260.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 65328769,
+      "version": "37.0@37",
+      "md5": "4d8d08b3c514c485201cece3f943620c",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libfenshen_apu_v3.so",
+              "md5": "5a4fca1a2006c8656d19fea0d4ab1cf5",
+              "size": 10602272
+            },
+            {
+              "name": "libfenshen_apu_v4.so",
+              "md5": "c9a58c05aca3b8facf9541d14b6bfcc9",
+              "size": 10622752
+            },
+            {
+              "name": "libfenshen_snpe.so",
+              "md5": "d35f1f513250b7f3424f30e745d8385d",
+              "size": 6514048
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "vlogpro",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/vlogpro/23.04.10.0@2304100/vlogpro-0c8b531ed6d3bf7d9f0a1458d31b2a37-20230410105041361.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 90048641,
+      "version": "23.04.10.0@2304100",
+      "md5": "0c8b531ed6d3bf7d9f0a1458d31b2a37",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libMiVideoSDK.so",
+              "md5": "84b9210f38aee744991fe8b37cf708fc",
+              "size": 5817392
+            },
+            {
+              "name": "libmiffmpeg.so",
+              "md5": "490c96269b1f64187be81e03f1e43248",
+              "size": 7063456
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "splitName": "movielens",
+      "url": "https://cdn.cnbj1.fds.api.mi-img.com/plugin-apk/release/movielens/43.0.0@43/movielens-fb230bde4ba90171d1956b91f698a904-20231031113820534.apk",
+      "builtIn": false,
+      "onDemand": true,
+      "size": 118362385,
+      "version": "43.0.0@43",
+      "md5": "fb230bde4ba90171d1956b91f698a904",
+      "minSdkVersion": 29,
+      "dexNumber": 1,
+      "nativeLibraries": [
+        {
+          "abi": "arm64-v8a",
+          "jniLibs": [
+            {
+              "name": "libDollyZoom.so",
+              "md5": "8f1dc81c2198809fc45e369e12f2b778",
+              "size": 10668016
+            },
+            {
+              "name": "libfenshen_apu_v3.so",
+              "md5": "5a4fca1a2006c8656d19fea0d4ab1cf5",
+              "size": 10602272
+            },
+            {
+              "name": "libfenshen_apu_v4.so",
+              "md5": "c9a58c05aca3b8facf9541d14b6bfcc9",
+              "size": 10622752
+            },
+            {
+              "name": "libfenshen_snpe.so",
+              "md5": "d35f1f513250b7f3424f30e745d8385d",
+              "size": 6514048
+            },
+            {
+              "name": "libffmpeg.so",
+              "md5": "ee66d249ced17d07f4fcb82023293c3d",
+              "size": 10477672
+            },
+            {
+              "name": "libinception_video.so",
+              "md5": "37e1dd4c9624a2fd9a032d54a3f6f5db",
+              "size": 10805752
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "updateSplits": [
+    "movielens"
+  ],
+  "abiFilters": [
+    "armeabi-v7a",
+    "arm64-v8a"
+  ]
+}

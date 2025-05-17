@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/top_config_extra_toggle_paddingtop_cv" android:focusable="false" android:layout_width="fill_parent" android:layout_height="@dimen/top_config_extra_toggle_item_height_cv"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/extra_tootle_item_layout" android:focusable="false" android:layout_width="@dimen/top_config_extra_toggle_imagesize_cv" android:layout_height="@dimen/top_config_extra_toggle_imagesize_cv">
+        <com.android.camera.ui.ColorCircleBackgroundView android:id="@id/extra_tootle_item_image_bg" android:layout_width="@dimen/top_config_extra_toggle_imagesize_cv" android:layout_height="@dimen/top_config_extra_toggle_imagesize_cv" android:scaleType="center" />
+        <com.airbnb.lottie.LottieAnimationView android:id="@id/extra_tootle_item_image" android:layout_width="@dimen/top_config_extra_toggle_imagesize_cv" android:layout_height="@dimen/top_config_extra_toggle_imagesize_cv" android:scaleType="center" />
+    </FrameLayout>
+    <RelativeLayout android:id="@id/rl_item_top_config_description" android:focusable="false" android:layout_width="90.0dip" android:layout_height="wrap_content">
+        <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/config_extra_item_text_size_cv" android:textColor="#bfffffff" android:ellipsize="marquee" android:gravity="center|top" android:id="@id/extra_tootle_item_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="70.0dip" android:maxLines="2" android:singleLine="true" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@id/iv_tag_config" android:background="@drawable/vector_drawable_right_angle_timer_burst_cv" android:layout_width="9.0dip" android:layout_height="9.0dip" android:layout_marginLeft="2.0dip" android:layout_marginBottom="2.0dip" android:layout_toRightOf="@id/extra_tootle_item_text" android:layout_alignBottom="@id/extra_tootle_item_text" />
+    </RelativeLayout>
+</LinearLayout>

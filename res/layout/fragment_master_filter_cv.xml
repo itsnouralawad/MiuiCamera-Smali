@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/master_filter_parent" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/filter_text_view_size" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@id/master_filter_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/master_filter_frame_layout_margin_bottom" />
+    <FrameLayout android:id="@id/master_filter_frame_layout" android:layout_width="wrap_content" android:layout_height="@dimen/light_recyclerview_height_cv" android:layout_marginBottom="@dimen/beautycamera_makeup_item_margin_cv">
+        <miuix.springback.view.SpringBackLayout android:layout_gravity="bottom|center" android:layout_width="fill_parent" android:layout_height="wrap_content" app:scrollOrientation="horizontal" app:scrollableView="@id/master_filter_list">
+            <com.android.camera2.compat.theme.custom.cv.FilterSelectViewCV android:layout_gravity="bottom" android:id="@id/master_filter_list" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </miuix.springback.view.SpringBackLayout>
+        <com.android.camera2.compat.theme.custom.cv.FilterSelectedIndicatorView android:layout_gravity="bottom|center" android:id="@id/effect_item_selected_indicator" android:visibility="visible" android:layout_width="@dimen/effect_realtime_item_layout_width" android:layout_height="@dimen/effect_realtime_item_layout_width" android:layout_marginBottom="@dimen/master_filter_selected_indicator_margin_bottom" />
+    </FrameLayout>
+</LinearLayout>

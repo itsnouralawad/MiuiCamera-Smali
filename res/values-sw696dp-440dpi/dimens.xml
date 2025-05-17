@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="beauty_subeffect_layout_margin_left">16.363983dip</dimen>
+    <dimen name="bottom_action_top_margin">58.899994dip</dimen>
+    <dimen name="bottom_action_top_margin_half">29.449982dip</dimen>
+    <dimen name="bottom_picker_width_cv">43.6409dip</dimen>
+    <dimen name="bottom_snap_width">73.28dip</dimen>
+    <dimen name="clone_adjust_margin_left_cv">46.179993dip</dimen>
+    <dimen name="clone_adjust_margin_left_film_cv">46.179993dip</dimen>
+    <dimen name="cross_padding_top">93.09dip</dimen>
+    <dimen name="cv_mode_more_head_margin_end">17.639984dip</dimen>
+    <dimen name="cv_mode_more_top_margin">52.359985dip</dimen>
+    <dimen name="cvtype_btn_select_marginbottom">54.544983dip</dimen>
+    <dimen name="cvtype_hint_viewpager_height">369.45312dip</dimen>
+    <dimen name="cvtype_hint_viewpager_marginbottom">94.17798dip</dimen>
+    <dimen name="cvtype_hint_viewpager_width">392.72656dip</dimen>
+    <dimen name="cvtype_item_card_height">294.53906dip</dimen>
+    <dimen name="manua_desc_icon_size_cv">24.666656dip</dimen>
+    <dimen name="manual_picture_style_margin_start_cv">58.0dip</dimen>
+    <dimen name="manual_popup_camera_adjust_distance_size">36.439972dip</dimen>
+    <dimen name="manual_popup_layout_margin_start">0.0dip</dimen>
+    <dimen name="manual_recyclerview_item_padding">2.1817932dip</dimen>
+    <dimen name="manually_description_bg_image_margin_start">10.0dip</dimen>
+    <item type="dimen" name="menu_item_scale_size">0.395</item>
+    <dimen name="mode_select_margin_hor">15.0dip</dimen>
+    <dimen name="mode_tips_item_text_margin_ver">2.5499878dip</dimen>
+    <dimen name="pop_up_window_move_left">116.099976dip</dimen>
+    <dimen name="preference_item_padding_start">28.0dip</dimen>
+    <dimen name="pro_video_recording_simple_width_cv">37.72dip</dimen>
+    <dimen name="pro_view_zoom_view_slider_height_cv">221.18399dip</dimen>
+    <dimen name="right_tip_description_tip_top">0.0dip</dimen>
+    <dimen name="time_freeze_margin_left_cv">43.26999dip</dimen>
+    <dimen name="time_freeze_margin_left_film_cv">43.26999dip</dimen>
+    <dimen name="top_bar_margin">31.269989dip</dimen>
+    <dimen name="top_bar_margin_cv">17.639984dip</dimen>
+    <dimen name="v9_bottom_parent_vertical_width">139.70999dip</dimen>
+    <dimen name="video_ultra_tip_margin_top">10.5dip</dimen>
+    <dimen name="zoom_ratio_dot_gap_cv">8.0dip</dimen>
+    <dimen name="zoom_ratio_toggle_view_bg_radius">20.0dip</dimen>
+    <dimen name="zoom_selected_view_stroke_width">1.4499817dip</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="rectangle">
+        <size android:height="@dimen/cv_mode_more_edit_height" android:width="@dimen/cv_mode_more_edit_width" />
+        <corners android:radius="@dimen/cv_mode_more_edit_radius" />
+        <stroke android:width="@dimen/cv_mode_more_edit_stroke_width" android:color="@color/panel_entrance_bg_color" />
+        <solid android:color="@android:color/transparent" />
+    </shape>
+</inset>
